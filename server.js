@@ -28,7 +28,7 @@ app.post('/email', (req, res)=>{
 
     var mailContent = {
         from: process.env.EMAIL,
-        to: 'mohammad.taha39@gmail.com',
+        to: 'contact@hopit.in',
         subject: `Hopit support for ${email}`,
         //text: msg
         html: `<div>
