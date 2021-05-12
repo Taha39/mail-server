@@ -13,7 +13,7 @@
     "cors": "^2.8.4",
     "dotenv": "^8.2.0",
     "express": "^4.16.3",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "xoauth2": "^1.2.0"
   }
 }
